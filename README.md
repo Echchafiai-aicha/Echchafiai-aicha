@@ -19,8 +19,8 @@ I am currently studying Computer Science at [Faculty of Sciences Semlalia, Marra
   - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="20"> C
 
 - **Databases**:
-  - <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" width="20"> MySQL
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/MongoDB_Logo.svg/1200px-MongoDB_Logo.svg.png" width="20"> MongoDB
+  -<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="100"> MySQL
+  - <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width="100">MongoDB
 
 - **Web Development**:
   - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="20"> HTML
