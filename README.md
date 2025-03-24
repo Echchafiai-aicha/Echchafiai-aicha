@@ -30,7 +30,7 @@ I am currently studying Computer Science at Faculty of Sciences Semlalia, Marrak
   - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="20"> Node.js
 
 ### 🛠️ My Projects
-I work on various personal and academic projects that help me apply what I learn in practice. You can check out some of my projects in [link to your GitHub repositories]. 🚀
+I work on various personal and academic projects that help me apply what I learn in practice. You can check out some of my projects in (https://github.com/Echchafiai-aicha). 🚀
 
 ### 🎯 My Goals
 I aim to become a skilled software developer 👩‍💻 and contribute to developing technologies that make people's lives easier and provide innovative solutions to real-world problems. I also aspire to participate in open-source projects and learn from the global developer community. 🌍
