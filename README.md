@@ -14,17 +14,17 @@
 
 ### 💻 My Specialization
 <br/>
-I am currently studying Computer Science at Faculty of Sciences Semlalia, Marrakech 🏫. During my studies, I have learned many technical skills such as:
+I am currently studying Computer Science at Faculty of Sciences Semlalia, Marrakech 🏫. During my studies, I have learned many technical skills such as: <br/>
 
 - **Programming Languages**:
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" width="20">  
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" width="20">  
+   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" width="20">  
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="20">  
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="20"> 
 <br/>
 - **Databases**:
-  - <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="100">   
-  - <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width="100">
+   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="100">   
+   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width="100">
 
 - **Web Development**:
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="20"> 
@@ -32,13 +32,7 @@ I am currently studying Computer Science at Faculty of Sciences Semlalia, Marrak
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="20">  
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="20"> 
    <br/>
-    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="120"/> <!-- GitHub Streak -->
-  </p>
-
-  <p align="left">
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <!-- Snake -->
-  </p>
-
+    
 ### 🎯 My Goals
 I aim to become a skilled software developer 👩‍💻 and contribute to developing technologies that make people's lives easier and provide innovative solutions to real-world problems. I also aspire to participate in open-source projects and learn from the global developer community. 🌍
 
