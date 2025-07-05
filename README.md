@@ -14,7 +14,7 @@
 
 ### 💻 My Specialization
 <br/>
-I am currently studying Computer Science at Faculty of Sciences Semlalia, Marrakech 🏫. During my studies, I have learned many technical skills such as: <br/>
+<h1 align="center">I am currently studying Computer Science at Faculty of Sciences Semlalia, Marrakech 🏫. During my studies, I have learned many technical skills such as:  </h1> <br/>
 
 - **Programming Languages**:
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" width="20">  
