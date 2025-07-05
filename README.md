@@ -12,7 +12,7 @@
   </p>
   
 
-### 💻 My Specialization
+  <h3 align="center" color="red">💻 My Specialization</h3>
 <br/>
 <h1 align="center">I am currently studying Computer Science at Faculty of Sciences Semlalia, Marrakech 🏫. During my studies, I have learned many technical skills such as:  </h1> <br/>
 
