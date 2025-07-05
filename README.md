@@ -3,12 +3,12 @@
 <br>
 <p align="center">
     <a href="https://www.linkedin.com/in/aicha-echchafiai-650284318/"> <!-- Lien vers votre LinkedIn -->
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Visitez%20mon%20profil%20LinkedIn;Je%20partage%20du%20contenu%20informatif;Suivez-moi%20pour%20les%20nouvelles%20publications&font=Fira%20Code&center=true&color=188822&pause=1000&width=500"> <!-- Texte animé -->
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Visitez%20mon%20profil%20LinkedIn;Je%20partage%20du%20contenu%20informatif;Suivez-moi%20pour%20les%20nouvelles%20publications&font=Fira%20Code&center=true&color=d63d57&pause=1000&width=500"> <!-- Texte animé -->
     </a>
 </p>
 
   <p align="center">
-      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=4010B0" height="25"/> <!-- Profile Views -->
+      <img src="https://komarev.com/ghpvc/?username=Echchafiai-aicha&style=flat&color=d63d57" height="25"/> <!-- Profile Views -->
   </p>
   
 
