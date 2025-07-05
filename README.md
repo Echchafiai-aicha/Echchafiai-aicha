@@ -1,11 +1,22 @@
-### Hi , I'm Aicha !   
- a student in the field of computer science.<br/>
- 🖥️ I am currently studying Computer Science.<br/>
- 💡 My passion for technology and computer programming led me to choose this field.<br/>
- 🌍 I am always striving to develop my skills and knowledge in this vast and evolving world.<br/>
- 🚀 I love learning and exploring everything new in the world of technology!<br/>
+<h1 align="center">I'm  Aicha Echchafiai </h1>
+Computer Science Student | Passionate about AI & Software Developmentk</h2>
+<br>
+<p align="center">
+    <a href="https://www.google.com.eg/search?q=ahmed+hemeda"> <!-- Google Me -->
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&color=30D050&pause=2000"> <!-- Text -->
+    </a>
+  </p>
 
+  <p align="center">
+      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=4010B0" height="25"/> <!-- Profile Views -->
+  </p>
+  <h3 align="left">📤 Connect with Me:</h3>
 
+ <a href="mailto:your-email@example.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="30"></a> echchafiaiaicha2006@gmail.com
+ 
+<a href="www.linkedin.com/in/aicha-echchafiai-650284318"> <!-- LinkedIn Profile -->
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"/>
+    </a>
 ![Aicha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Echchafiai-aicha&show_icons=true&theme=radical)
 
 
@@ -29,19 +40,25 @@ I am currently studying Computer Science at Faculty of Sciences Semlalia, Marrak
   - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="20"> JavaScript
   - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="20"> Node.js
 
-### 🛠️ My Projects
-I work on various personal and academic projects that help me apply what I learn in practice. You can check out some of my projects in (https://github.com/Echchafiai-aicha). 🚀
+  <p align="left">
+    <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=onestar&row=1&column=7"/>
+  </p>
+  <br>
+
+  <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=highcontrast" height="120"/> &nbsp; <!-- Most Used Languages -->
+    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="120"/> <!-- GitHub Streak -->
+  </p>
+
+  <p align="left">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <!-- Snake -->
+  </p>
 
 ### 🎯 My Goals
 I aim to become a skilled software developer 👩‍💻 and contribute to developing technologies that make people's lives easier and provide innovative solutions to real-world problems. I also aspire to participate in open-source projects and learn from the global developer community. 🌍
 
-### 📞 Contact Me
-You can reach me via:
-
- <a href="mailto:your-email@example.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="30"></a> echchafiaiaicha2006@gmail.com
  
-<a href="https://www.linkedin.com/in/your-profile" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30"></a> www.linkedin.com/in/aicha-echchafiai-650284318
-
+ 
 
 
 
