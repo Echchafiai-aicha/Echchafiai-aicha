@@ -2,10 +2,10 @@
 <h2 align="center">Computer Science Student | Passionate about AI & Software Developmentk</h2> 
 <br>
 <p align="center">
-    <a href="https://www.google.com.eg/search?q=ahmed+hemeda"> <!-- Google Me -->
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&color=30D050&pause=2000"> <!-- Text -->
+    <a href="https://www.linkedin.com/in/aicha-echchafiai-650284318/"> <!-- Lien vers votre LinkedIn -->
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Visitez%20mon%20profil%20LinkedIn;Je%20partage%20du%20contenu%20informatif;Suivez-moi%20pour%20les%20nouvelles%20publications&font=Fira%20Code&center=true&color=0A66C2&pause=1000&width=500"> <!-- Texte animé -->
     </a>
-  </p>
+</p>
 
   <p align="center">
       <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=4010B0" height="25"/> <!-- Profile Views -->
