@@ -19,6 +19,25 @@
 
  
  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+
+
+ <h3 align="left">🏆 Mes Trophées GitHub :</h3>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Echchafiai-aicha&theme=THEME&row=1&column=7&margin-w=15&no-bg=true"/>
+</p>
+<p align="left">
+  <!-- Top Langages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Echchafiai-aicha&layout=compact&langs_count=6&theme=THEME&hide_border=true" height="120"/>
+  
+  <!-- Stats GitHub -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Echchafiai-aicha&show_icons=true&theme=THEME&hide_border=true" height="120"/>
+  
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=Echchafiai-aicha&theme=THEME&hide_border=true" height="120"/>
+</p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Echchafiai-aichaE/Echchafiai-aicha/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
     
 ### 🎯 My Goals
 I aim to become a skilled software developer 👩‍💻 and contribute to developing technologies that make people's lives easier and provide innovative solutions to real-world problems. I also aspire to participate in open-source projects and learn from the global developer community. 🌍
