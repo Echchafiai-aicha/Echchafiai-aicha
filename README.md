@@ -23,25 +23,20 @@
 
  <h3 align="left">🏆 Mes Trophées GitHub :</h3>
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Echchafiai-aicha&theme=THEME&row=1&column=7&margin-w=15&no-bg=true"/>
-</p>
-<p align="left">
-  <!-- Top Langages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Echchafiai-aicha&layout=compact&langs_count=6&theme=THEME&hide_border=true" height="120"/>
-  
-  <!-- Stats GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Echchafiai-aicha&show_icons=true&theme=THEME&hide_border=true" height="120"/>
-  
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=Echchafiai-aicha&theme=THEME&hide_border=true" height="120"/>
-</p>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Echchafiai-aichaE/Echchafiai-aicha/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
-    
-### 🎯 My Goals
-I aim to become a skilled software developer 👩‍💻 and contribute to developing technologies that make people's lives easier and provide innovative solutions to real-world problems. I also aspire to participate in open-source projects and learn from the global developer community. 🌍
+    <img src="https://github-profile-trophy.vercel.app/?username=Echchafiai-aicha&theme=onestar&row=1&column=7"/>
+  </p>
+  <br>
 
+  <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Echchafiai-aicha&layout=compact&langs_count=6&theme=highcontrast" height="120"/> &nbsp; <!-- Most Used Languages -->
+    <img src="https://streak-stats.demolab.com/?user=Echchafiai-aicha&theme=highcontrast" height="120"/> <!-- GitHub Streak -->
+  </p>
+<p align="left">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <!-- Snake -->
+  </p>
+  <h1 align="center"> 🎯 My Goals</h1> 
+<h3 align="center">I aim to become a skilled software developer 👩‍💻 and contribute to developing technologies that make people's lives easier and provide innovative solutions to real-world problems. I also aspire to participate in open-source projects and learn from the global developer community. 🌍
+</h3> 
  
  
 
