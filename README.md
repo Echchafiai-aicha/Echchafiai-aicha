@@ -1,5 +1,5 @@
 <h1 align="center">I'm  Aicha Echchafiai </h1>
-Computer Science Student | Passionate about AI & Software Developmentk</h2>
+<h2 align="center">Computer Science Student | Passionate about AI & Software Developmentk</h2> 
 <br>
 <p align="center">
     <a href="https://www.google.com.eg/search?q=ahmed+hemeda"> <!-- Google Me -->
@@ -10,15 +10,7 @@ Computer Science Student | Passionate about AI & Software Developmentk</h2>
   <p align="center">
       <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=4010B0" height="25"/> <!-- Profile Views -->
   </p>
-  <h3 align="left">📤 Connect with Me:</h3>
-
- <a href="mailto:your-email@example.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="30"></a> echchafiaiaicha2006@gmail.com
- 
-<a href="www.linkedin.com/in/aicha-echchafiai-650284318"> <!-- LinkedIn Profile -->
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"/>
-    </a>
-![Aicha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Echchafiai-aicha&show_icons=true&theme=radical)
-
+  
 
 ### 💻 My Specialization
 <br/>
