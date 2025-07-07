@@ -3,7 +3,7 @@
 <br>
 <p align="center">
     <a href="https://www.linkedin.com/in/aicha-echchafiai-650284318/"> <!-- Lien vers votre LinkedIn -->
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Visitez%20mon%20profil%20LinkedIn;Je%20partage%20du%20contenu%20informatif;Suivez-moi%20pour%20les%20nouvelles%20publications&font=Fira%20Code&center=true&color=d63d57&pause=1000&width=500"> <!-- Texte animé -->
+     <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20profile;I%20share%20informative%20content;Follow%20me%20for%20new%20publications&font=Fira%20Code&center=true&color=d63d57&pause=1000&width=500"> <!-- Animated text -->
     </a>
 </p>
 
