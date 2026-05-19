@@ -1,5 +1,5 @@
 <h1 align="center">I'm  Aicha Echchafiai </h1>
-<h2 align="center">Computer Science Student | Passionate about AI & Software Developmentk</h2> 
+<h2 align="center">Computer Science Student | Passionate about AI & Software Development</h2> 
 <br>
 <p align="center">
     <a href="https://www.linkedin.com/in/aicha-echchafiai-650284318/"> <!-- Lien vers votre LinkedIn -->
